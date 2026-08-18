@@ -80,14 +80,16 @@
 
 <div align="center">
 
-```text
-📁 projeto-filme
-│
-├── 📄 index.html
-├── 📄 README.md
-│
-└── 📁 img
+```
+<div align="center">
+  <p>
+    📁 projeto-filme<br>
+    ├── 📄 index.html<br>
+    ├── 📄 README.md<br>
+    └── 📁 img<br>
     └── 🖼️ interestelar.jpg
+  </p>
+</div>
 ```
 
 </div>
