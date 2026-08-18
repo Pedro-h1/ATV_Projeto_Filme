@@ -19,7 +19,9 @@
 </div>
 
 <div align="center">
-  <h2>🌌 Interestelar</h2>
+  <p>
+    <strong>🌌 Interestelar</strong>
+  </p>
   <p>
     <strong>Interestelar</strong> é um filme de ficção científica lançado em <strong>2014</strong>, dirigido por <strong>Christopher Nolan</strong>.
   </p>
