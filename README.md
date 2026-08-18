@@ -75,22 +75,21 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📁+Estrutura+do+Projeto" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📁+Estrutura+do+Projeto" />
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-```
-<div align="center">
-  <p>
-    📁 projeto-filme<br>
-    ├── 📄 index.html<br>
-    ├── 📄 README.md<br>
-    └── 📁 img<br>
-    └── 🖼️ interestelar.jpg
-  </p>
-</div>
-```
+📁 projeto-filme  
+├── 📄 index.html  
+├── 📄 README.md  
+└── 📁 assets  
+└── 🖼️ interestelar.jpg
+
+</td>
+</tr>
+</table>
 
 </div>
 
